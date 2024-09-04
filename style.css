@@ -4,7 +4,7 @@
             font-family: Arial, sans-serif;
         }
         header {
-            background-color: #4CAF50;
+            background-color: #9fd5a1;
             color: white;
             padding: 10px 0;
             text-align: center;
@@ -61,7 +61,7 @@
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
         h1, h2 {
-            color: #4CAF50;
+            color: #8dd48f;
         }
         p {
             line-height: 1.6;
@@ -97,11 +97,11 @@ footer {
 }
 
 .footer-container p {
-    margin: 5px 0;
+    margin: 5px 0;  
 }
 
 .footer-container a {
-    color: #ffcc00;
+    color: #f0da83;
     text-decoration: none;
 }
 
